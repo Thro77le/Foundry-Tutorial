@@ -5,7 +5,7 @@ out = "out"
 libs = ["lib"]
 
 # my settings
-solc_version = "0.8.17"
+solc_version = "0.8.18"
 optimizer = true
 optimizer_runs = 200
 
