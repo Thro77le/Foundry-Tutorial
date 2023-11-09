@@ -2,7 +2,7 @@
 pragma solidity ^0.8.13;
 
 import {Test, console2} from "forge-std/Test.sol";
-import {Counter} from "../src/Counter.sol";
+import {Counter} from "../../src/basics/Counter.sol";
 import {Nice} from "Nice/Nice.sol";
 
 contract CounterTest is Test {
